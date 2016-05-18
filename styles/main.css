@@ -1,9 +1,28 @@
 
 
 body {
-	background-color: #0f6660;
+	/*background-color: #f3f3f3;*/
+	background: #1D4350; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #13647F, #8F73D7, #E3BEDE, #FFCBB8); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #13647F, #8F73D7, #E3BEDE, #FFCBB8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 h1 {
-	color: red;
+	color: #383333;
 }
+
+h2 {
+	color: #383333;
+}
+
+.project {
+	color: #28905d;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.project:active {
+	color: #f3f3f3;
+}
+/*Put bootstrap on for nav bar,
+rows for projects links,*/
