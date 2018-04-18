@@ -1,3 +1,3 @@
-# Whitney Mitchell --Portfolio
+# Whitney Mitchell -- Outdated Programming Portfolio
 
-[Demo](http://whitney-mitchell.github.io/)
+[Let's see it!](http://whitney-mitchell.github.io/)
